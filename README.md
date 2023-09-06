@@ -4,5 +4,5 @@
 
 ```
 Usage:
-  python3 Hope_Erp.py -h
+  python3 jboss.py -h
 ```
