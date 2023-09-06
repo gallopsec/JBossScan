@@ -6,3 +6,4 @@
 Usage:
   python3 jboss.py -h
 ```
+![示例](https://github.com/gallopsec/JBossScan/blob/main/poc.png)
